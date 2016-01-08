@@ -1,0 +1,16 @@
+{
+  "name": "typescript-helpers",
+  "version": "1.0.0",
+  "description": "Typescript helpers for compiling typescript while specifying --noEmitHelpers",
+  "main": "helpers.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tifosiblack/typescript-helpers.git"
+  },
+  "author": "Clément Fossati <fossati.clement@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tifosiblack/typescript-helpers/issues"
+  },
+  "homepage": "https://github.com/tifosiblack/typescript-helpers#readme"
+}
