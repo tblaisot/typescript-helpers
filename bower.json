@@ -1,0 +1,19 @@
+{
+  "name": "typescript-helpers",
+  "version": "1.0.0",
+  "description": "Typescript helpers for compiling typescript while specifying --noEmitHelpers",
+  "main": "helpers.js",
+  "authors": [
+    "Clément Fossati <fossati.clement@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tifosiblack/typescript-helpers",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
